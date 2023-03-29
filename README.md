@@ -2,10 +2,6 @@
 [![PoF 2021](https://img.shields.io/badge/arXiv-2209.08052-red.svg)](https://arxiv.org/abs/2209.08052) 
 
 ###
-<p align="center">
-  <img width="600" height="200" alt="datavisu" src="case_sample/banner_pof_1.png">
-</p>
-
 
 ### Abstract:
 A convolutional encoder-decoder-based transformer model has been developed to autoregressively train on spatio-temporal data of turbulent flows. It works by predicting future fluid flow fields from the previously predicted fluid flow field to ensure long-term predictions without diverging. The model exhibits significant agreements for \textit{a priori} assessments, and the \textit{a posterior} predictions, after a considerable number of simulation steps, exhibit predicted variances. Autoregressive training and prediction of \textit{a posteriori} states is the primary step towards the development of more complex data-driven turbulence models and simulations.
